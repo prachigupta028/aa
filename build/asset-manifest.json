@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tinderclone/static/css/main.6471210c.css",
+    "main.js": "/Tinderclone/static/js/main.3c5a6c7b.js",
+    "index.html": "/Tinderclone/index.html",
+    "main.6471210c.css.map": "/Tinderclone/static/css/main.6471210c.css.map",
+    "main.3c5a6c7b.js.map": "/Tinderclone/static/js/main.3c5a6c7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6471210c.css",
+    "static/js/main.3c5a6c7b.js"
+  ]
+}
